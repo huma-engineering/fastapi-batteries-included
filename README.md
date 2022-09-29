@@ -1,3 +1,6 @@
+# Announcement :loudspeaker: 
+
+This repository is transferred from [gdm-SynseneHealth](https://github.com/sensynehealth/fastapi-batteries-included) to Huma organisation as part of change in asset ownership 
 # FastAPI Batteries Included
 
 An installable package for API microservices. It provides FastAPI plus the basic extras we need for every API microservice.
